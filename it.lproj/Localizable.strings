@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  LoginxCasa
+
+  Created by Valerio Ly on 26/10/18.
+  Copyright © 2018 Valerio Ly. All rights reserved.
+*/
+
+
+// LOGIN
+
+kLoginEmailLabel = "E-mail";
+kLoginPasswordLabel = "Password";
+kLoginEmailPlaceHolder = "E-mail";
+kLoginPasswordPlaceHolder = "Password";
+kLoginButton = "Accedi";
+kRegisterButton = " Registrati Ora";
+
+// SIGN UP
+
+kSignUpName = "Nome";
+kSignUpSurname = "Cognome";
+kSignUpEmail = "E-mail";
+kSignUpPassword = "Password";
+kSignUpRepeatPassword = "Ripeti Password";
+
+kSignUpLoginButton = "Accedi";
+kSignUpRegisterButton = "Registrati";
+
+
+// USER PROFILE
+
+kUserName = "Nome";
+kUserSurname = "Cognome";
+kUserEmail = "E-mail";
+kUserPassword = "Password";
+
+kEditProfile = "Modifica Profilo";
+kUserProfileLogin = "Vai Accedi";
+
+// LIST COMPAGNO
+
+kListName = "Nome";
+kListSurname = "Cognome";
+kListFilter = "Filtro";
+kListButton = "Seleziona Posti";
+
+kFilterTitle = "Filtra";
+kFilterDesc = "Vuoi Filtrare?";
+kFilterName = "Nome";
+kFilterSurname = "Cognome";
+kFilterStars = "Stelle";
+
+// Compagno Profile
+
+kCompagnoName = "Nome";
+kCompagnoSurname = "Cognome";
+kCompagnoSave = "Salva";
