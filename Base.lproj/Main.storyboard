@@ -62,23 +62,23 @@
                                                     <subviews>
                                                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oiJ-Fk-H6W">
                                                             <rect key="frame" x="0.0" y="0.0" width="30" height="30"/>
-                                                            <state key="normal" title="☆"/>
+                                                            <state key="normal" title="✪"/>
                                                         </button>
                                                         <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ci5-1i-waT">
                                                             <rect key="frame" x="30" y="0.0" width="30" height="30"/>
-                                                            <state key="normal" title="☆"/>
+                                                            <state key="normal" title="✪"/>
                                                         </button>
                                                         <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6R2-a3-m2J">
                                                             <rect key="frame" x="60" y="0.0" width="30" height="30"/>
-                                                            <state key="normal" title="☆"/>
+                                                            <state key="normal" title="✪"/>
                                                         </button>
                                                         <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fnJ-eL-bYO">
                                                             <rect key="frame" x="90" y="0.0" width="30" height="30"/>
-                                                            <state key="normal" title="☆"/>
+                                                            <state key="normal" title="✪"/>
                                                         </button>
                                                         <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HHQ-NN-UTN">
                                                             <rect key="frame" x="120" y="0.0" width="30" height="30"/>
-                                                            <state key="normal" title="☆"/>
+                                                            <state key="normal" title="✪"/>
                                                         </button>
                                                     </subviews>
                                                     <constraints>
@@ -204,35 +204,35 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="932-wM-CiM">
                                         <rect key="frame" x="0.0" y="0.0" width="30" height="30"/>
-                                        <state key="normal" title="☆"/>
+                                        <state key="normal" title="✪"/>
                                         <connections>
                                             <action selector="StarAction:" destination="b0l-hk-k1T" eventType="touchUpInside" id="tH7-Cz-YMF"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cfO-l0-JF4">
                                         <rect key="frame" x="30" y="0.0" width="30" height="30"/>
-                                        <state key="normal" title="☆"/>
+                                        <state key="normal" title="✪"/>
                                         <connections>
                                             <action selector="StarAction:" destination="b0l-hk-k1T" eventType="touchUpInside" id="Kzb-0l-5f9"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xjo-pG-7m9">
                                         <rect key="frame" x="60" y="0.0" width="30" height="30"/>
-                                        <state key="normal" title="☆"/>
+                                        <state key="normal" title="✪"/>
                                         <connections>
                                             <action selector="StarAction:" destination="b0l-hk-k1T" eventType="touchUpInside" id="gwj-R5-WTt"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CkJ-v4-A8l">
                                         <rect key="frame" x="90" y="0.0" width="30" height="30"/>
-                                        <state key="normal" title="☆"/>
+                                        <state key="normal" title="✪"/>
                                         <connections>
                                             <action selector="StarAction:" destination="b0l-hk-k1T" eventType="touchUpInside" id="rul-4d-7Ai"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SwT-kn-OTn">
                                         <rect key="frame" x="120" y="0.0" width="30" height="30"/>
-                                        <state key="normal" title="☆"/>
+                                        <state key="normal" title="✪"/>
                                         <connections>
                                             <action selector="StarAction:" destination="b0l-hk-k1T" eventType="touchUpInside" id="ONA-Ra-eqG"/>
                                         </connections>
@@ -843,6 +843,6 @@
         <image name="userprofile" width="512" height="512"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="bvG-bb-luv"/>
+        <segue reference="bvG-ZN-1iR"/>
     </inferredMetricsTieBreakers>
 </document>
