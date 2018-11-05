@@ -504,7 +504,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Sft-Gm-iqv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-82.400000000000006" y="88.605697151424295"/>
+            <point key="canvasLocation" x="-457" y="100"/>
         </scene>
         <!--User Profile Controller-->
         <scene sceneID="czb-wz-AOi">
@@ -629,13 +629,13 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qB5-UJ-su2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="869.60000000000002" y="94.902548725637189"/>
+            <point key="canvasLocation" x="678" y="100"/>
         </scene>
         <!--Seats Controller-->
         <scene sceneID="5Jh-1t-rfY">
             <objects>
                 <viewController id="5KR-TD-vzL" customClass="SeatsController" customModule="AppCompagniBanco" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" ambiguous="YES" id="N7v-NQ-8du">
+                    <view key="view" contentMode="scaleToFill" id="N7v-NQ-8du">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
@@ -646,7 +646,7 @@
                                     <constraint firstAttribute="width" constant="94" id="VtT-Pp-qXz"/>
                                 </constraints>
                             </imageView>
-                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="e51-LH-Myp">
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="e51-LH-Myp">
                                 <rect key="frame" x="0.0" y="106" width="375" height="561"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
@@ -701,7 +701,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zGb-ua-7W1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1725.5999999999999" y="100.29985007496252"/>
+            <point key="canvasLocation" x="2558" y="99"/>
         </scene>
         <!--Login View Controller-->
         <scene sceneID="j8n-2m-wOg">
@@ -814,7 +814,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cx7-g4-Uf9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-82" y="-672"/>
+            <point key="canvasLocation" x="678" y="-672"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Uur-fn-WPE">
@@ -832,7 +832,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UST-VU-kES" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-961" y="-672"/>
+            <point key="canvasLocation" x="-457" y="-672"/>
         </scene>
     </scenes>
     <resources>
@@ -843,6 +843,6 @@
         <image name="userprofile" width="512" height="512"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="bvG-ZN-1iR"/>
+        <segue reference="bvG-bb-luv"/>
     </inferredMetricsTieBreakers>
 </document>
